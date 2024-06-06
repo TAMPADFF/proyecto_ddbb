@@ -1,0 +1,9 @@
+alter session set "_ORACLE_SCRIPT"=true;
+
+Create user TAMPA identified by 1234;
+
+grant create session to TAMPA;
+
+alter user TAMPA default role all;
+
+grant dba to TAMPA;

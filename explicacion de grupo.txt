@@ -1,0 +1,22 @@
+papa zea: 
+	1: presentacion del grupo
+	2: explicacion de como creamos la red para las computadoras
+
+quebin zea:
+	1: explicar como se crean las cadenas de conexion en el tnsnames
+	2: explicar como estas se utilizan en el sqldeveloper
+
+baleri:
+	1: creacion de la conexion remota
+	2: ejecutar instrucciones ddl en esta misma
+
+gappy:
+	1: creacion de los dblinks
+	2: creacion de los sinonimos
+
+juam:
+	1: instrucciones dml utilizando los dblinks
+	2: hacer una consulta usando los sinonimos
+
+tampa:
+	1: Ejecutar instrucciones PL/SQL por medio de los db_links (execute de funciones o procedimientos)
