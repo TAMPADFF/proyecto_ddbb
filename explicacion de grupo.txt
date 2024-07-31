@@ -19,4 +19,4 @@ juam:
 	2: hacer una consulta usando los sinonimos
 
 tampa:
-	1: Ejecutar instrucciones PL/SQL por medio de los db_links (execute de funciones o procedimientos)
+	1: Ejecutar instrucciones PL/SQL por medio de los db_links (execute de funciones o 	procedimientos)
